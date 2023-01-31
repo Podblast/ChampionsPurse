@@ -1,0 +1,7 @@
+## Interface: 30401
+## Title: ChampionsPurse
+## Notes: Automatically selects the reward named "Champion's Purse"
+## Author: Me
+## Version: 1.0
+
+ChampionsPurse.lua
